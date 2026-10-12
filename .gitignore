@@ -1,0 +1,33 @@
+# ======================
+# Personal files
+# ======================
+!run_commands.txt
+*.command
+port.txt
+
+# ======================
+# PYTHON
+# ======================
+__pycache__/
+*.py[cod]
+.venv/
+
+# ======================
+# macOS
+# ======================
+.DS_Store
+
+# ======================
+# ENVIRONMENT & SECRETS
+# ======================
+.env
+.env.*
+!.env.example
+
+# ======================
+# EDITORS
+# ======================
+.vscode/
+!.vscode/extensions.json
+!.vscode/settings.json.example
+~$*
