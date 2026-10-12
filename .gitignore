@@ -31,3 +31,9 @@ __pycache__/
 !.vscode/extensions.json
 !.vscode/settings.json.example
 ~$*
+
+# ======================
+# private
+# ======================
+
+/PBL/private
